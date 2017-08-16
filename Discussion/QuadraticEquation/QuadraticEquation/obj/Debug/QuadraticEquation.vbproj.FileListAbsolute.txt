@@ -1,6 +1,0 @@
-D:\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.vbprojResolveAssemblyReference.cache
-D:\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.Resources.resources
-D:\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.vbproj.GenerateResource.Cache
-D:\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.exe
-D:\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.xml
-D:\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
