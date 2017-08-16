@@ -1,0 +1,12 @@
+c:\users\wwstudent\documents\visual studio 2017\Projects\AreaOfaTriangle1\AreaOfaTriangle1\obj\Debug\AreaOfaTriangle1.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2017\Projects\AreaOfaTriangle1\AreaOfaTriangle1\bin\Debug\AreaOfaTriangle1.exe.config
+c:\users\wwstudent\documents\visual studio 2017\Projects\AreaOfaTriangle1\AreaOfaTriangle1\bin\Debug\AreaOfaTriangle1.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\AreaOfaTriangle1\AreaOfaTriangle1\bin\Debug\AreaOfaTriangle1.pdb
+c:\users\wwstudent\documents\visual studio 2017\Projects\AreaOfaTriangle1\AreaOfaTriangle1\obj\Debug\AreaOfaTriangle1.exe
+c:\users\wwstudent\documents\visual studio 2017\Projects\AreaOfaTriangle1\AreaOfaTriangle1\obj\Debug\AreaOfaTriangle1.pdb
+D:\School\Home Work\ISTA220_C#Discussion\AreaOfaTriangle1\AreaOfaTriangle1\bin\Debug\AreaOfaTriangle1.exe.config
+D:\School\Home Work\ISTA220_C#Discussion\AreaOfaTriangle1\AreaOfaTriangle1\bin\Debug\AreaOfaTriangle1.exe
+D:\School\Home Work\ISTA220_C#Discussion\AreaOfaTriangle1\AreaOfaTriangle1\bin\Debug\AreaOfaTriangle1.pdb
+D:\School\Home Work\ISTA220_C#Discussion\AreaOfaTriangle1\AreaOfaTriangle1\obj\Debug\AreaOfaTriangle1.csprojResolveAssemblyReference.cache
+D:\School\Home Work\ISTA220_C#Discussion\AreaOfaTriangle1\AreaOfaTriangle1\obj\Debug\AreaOfaTriangle1.exe
+D:\School\Home Work\ISTA220_C#Discussion\AreaOfaTriangle1\AreaOfaTriangle1\obj\Debug\AreaOfaTriangle1.pdb
