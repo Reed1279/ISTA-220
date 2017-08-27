@@ -1,0 +1,7 @@
+C:\Users\tyler\source\repos\MyFarm\MyFarm\bin\Debug\MyFarm.exe.config
+C:\Users\tyler\source\repos\MyFarm\MyFarm\bin\Debug\MyFarm.exe
+C:\Users\tyler\source\repos\MyFarm\MyFarm\bin\Debug\MyFarm.pdb
+C:\Users\tyler\source\repos\MyFarm\MyFarm\obj\Debug\MyFarm.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\MyFarm\MyFarm\obj\Debug\MyFarm.exe
+C:\Users\tyler\source\repos\MyFarm\MyFarm\obj\Debug\MyFarm.pdb
+C:\Users\tyler\source\repos\MyFarm\MyFarm\obj\Debug\MyFarm.csprojResolveAssemblyReference.cache
