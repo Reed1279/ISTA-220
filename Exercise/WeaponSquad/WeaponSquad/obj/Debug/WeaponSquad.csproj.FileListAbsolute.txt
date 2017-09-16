@@ -1,6 +1,0 @@
-C:\Users\tyler\OneDrive\Documents\Visual Studio 2017\Projects\WeaponSquad\WeaponSquad\bin\Debug\WeaponSquad.exe.config
-C:\Users\tyler\OneDrive\Documents\Visual Studio 2017\Projects\WeaponSquad\WeaponSquad\bin\Debug\WeaponSquad.exe
-C:\Users\tyler\OneDrive\Documents\Visual Studio 2017\Projects\WeaponSquad\WeaponSquad\bin\Debug\WeaponSquad.pdb
-C:\Users\tyler\OneDrive\Documents\Visual Studio 2017\Projects\WeaponSquad\WeaponSquad\obj\Debug\WeaponSquad.csproj.CoreCompileInputs.cache
-C:\Users\tyler\OneDrive\Documents\Visual Studio 2017\Projects\WeaponSquad\WeaponSquad\obj\Debug\WeaponSquad.exe
-C:\Users\tyler\OneDrive\Documents\Visual Studio 2017\Projects\WeaponSquad\WeaponSquad\obj\Debug\WeaponSquad.pdb
