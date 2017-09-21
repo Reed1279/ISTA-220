@@ -64,7 +64,9 @@
 	-Read, Write, and Execute.
 1. Answer the previous question by converting the decimal permissions into binary permissions. What does this tell you about using this scheme of permissions?
 
--It was written with integer indexing as an array of Boolean values.
+	-It was written with integer indexing as an array of Boolean values.
+
+
 (a) permission = 0  
 No permissions/000  
 (b) permission = 1  
