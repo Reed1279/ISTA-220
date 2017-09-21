@@ -68,9 +68,11 @@
 
 
 (a) permission = 0  
-No permissions/000  
+
+	-No permissions/000  
 (b) permission = 1  
-Read/001  
+
+	-Read/001  
 (c) permission = 2  
 Write/010  
 (d) permission = 3  
