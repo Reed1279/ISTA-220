@@ -65,8 +65,8 @@
 1. Answer the previous question by converting the decimal permissions into binary permissions. What does this tell you about using this scheme of permissions?
 	
 	-It was written with integer indexing as an array of Boolean values.
-A. permission = 0 -No permissions/000./n
-B. permission = 1 -Read/001./n
+A. permission = 0 -No permissions/000.
+B. permission = 1 -Read/001.
 C. permission = 2 -Write/010.
 D. permission = 3 -Read and Write/011.
 E. permission = 4 -Execute/100.
