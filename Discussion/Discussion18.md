@@ -24,10 +24,14 @@
 1. What are restrictions on the use of properties?  
 
 	-a value can be assingned through a property of a structure or class after the structure or class has been initialized.
+	
 	-you can not use a property as a reference or an out argument to a method.
+	
 	-a property can contain one get accessor and one set accessor. It cannot contain other methods, fields, or properties.
+	
 	-the get and set accessors cannot take any parameters. 
-	-you can not declare properties by using constructors.
+	
+	-you can not declare properties by using constructors.	
 1. What is an object initializer? What is the syntax for an object initializer?  
 
 	-"new", followed by the class constructor./MyPhone = new MyPhone();
