@@ -38,30 +38,31 @@
 
 	-Calls the get/set accessor for bits where the index is the value of n. 
 1. Assume that users were assigned read, write, and execute permissions according to this scheme: read = 1, write = 2, execute = 4. How would you interpret the following user permissions:
+
 (a) permission = 0
 
-	-No permissions.
+	-No permissions
 (b) permission = 1
 
-	-Read.
+	-Read
 (c) permission = 2
 
-	-Write.
+	-Write
 (d) permission = 3
 
 	-Read and Write.
 (e) permission = 4
 
-	-Execute.
+	-Execute
 (f) permission = 5
 
-	-Read and Execute.
+	-Read and Execute
 (g) permission = 6
 
-	-Write and Execute. 
+	-Write and Execute 
 (h) permission = 7
 
-	-Read, Write, and Execute.
+	-Read, Write, and Execute
 1. Answer the previous question by converting the decimal permissions into binary permissions. What does this tell you about using this scheme of permissions?
 
 	-It was written with integer indexing as an array of Boolean values.
@@ -74,14 +75,20 @@
 
 	-Read/001  
 (c) permission = 2  
-Write/010  
+
+	-Write/010  
 (d) permission = 3  
-Read and Write/011  
+
+	-Read and Write/011  
 (e) permission = 4  
-Execute/100  
+
+	-Execute/100  
 (f) permission = 5  
-Read and Execute/101  
+
+	-Read and Execute/101  
 (g) permission = 6  
-Write and Execute/110  
+
+	-Write and Execute/110  
 (h) permission = 7  
-Read, Write, and Execute/111
+
+	-Read, Write, and Execute/111
