@@ -21,7 +21,7 @@ namespace Cipher
 			int FirstCharIdx = 'a';
 			int Offset = ('Z' - 'a') + 1;
 
-			for (int i = 0; 1 < originalTextArr.Length; i++)
+			for (int i = 0; i < originalTextArr.Length; i++)
 			{
 				char OldCharIdx = originalTextArr[i];
 				int OldIdxInAlphabet = OldCharIdx - FirstCharIdx;
